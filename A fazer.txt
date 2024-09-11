@@ -1,0 +1,21 @@
+A fazer:
+
+* 20 entregadores com maior distância [bonificação por: tipo de profissional e modelo de locomoção]
+
+* Distribuição da distancia média percorrida pelos motoqueiros separada por estado
+
+* 1. Levantar a receita média e total separadas por tipo (food x good)
+  2. Receita média e total por estado
+
+cálculos: 
+Se a empresa tem um gasto fixo de 5 reais por entrega, recebe 15% do valor de cada entrega como receita e, do total do lucro, distribui 20% em forma de bônus para os 2 mil funcionários, quanto cada um irá receber no período contido no dataset?
+	
+
+
+
+
+passo 1: carregar os arquivos no power bi
+
+
+
+
